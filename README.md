@@ -10,6 +10,8 @@ zhengduofufu 的个人博客
 
 ### 最新
 
+* [数据库如何分库分表](https://www.zhengduofufu.club/articles/2019/11/14/1573697342020.html)
+* [Redis干货](https://www.zhengduofufu.club/articles/2019/11/12/1573548683700.html)
 * [Springboot整合Redis](https://www.zhengduofufu.club/articles/2019/11/12/1573547465838.html)
 * [Java多线程系列（五） JUC线程池 之 Callable和Future](https://www.zhengduofufu.club/articles/2019/11/12/1573543985818.html)
 * [Java多线程系列（五） JUC线程池 之 线程池原理（四）](https://www.zhengduofufu.club/articles/2019/11/12/1573543943878.html)
@@ -28,11 +30,10 @@ zhengduofufu 的个人博客
 * [Java多线程系列（三） JUC锁 之 CyclicBarrier原理和示例](https://www.zhengduofufu.club/articles/2019/11/12/1573543595388.html)
 * [Java多线程系列（三） JUC锁 之 CountDownLatch原理和示例](https://www.zhengduofufu.club/articles/2019/11/12/1573543497880.html)
 * [Java多线程系列（三）JUC锁 之 共享锁和ReentrantReadWriteLock](https://www.zhengduofufu.club/articles/2019/11/12/1573543473211.html)
-* [Java多线程系列（三）“JUC锁” 之 Condition](https://www.zhengduofufu.club/articles/2019/11/12/1573543448569.html)
-* [Java多线程系列（三）“JUC锁” 之 公平锁](https://www.zhengduofufu.club/articles/2019/11/12/1573543416452.html)
 
 ### 热门
 
+* [轻轻松松搞定Mysql](https://www.zhengduofufu.club/articles/2019/10/31/1572487546254.html)
 * [Spring的IOC](https://www.zhengduofufu.club/articles/2019/10/31/1572511450403.html)
 * [直击心灵的几个Mysql问题](https://www.zhengduofufu.club/articles/2019/10/31/1572514568784.html)
 * [Linux常用命令](https://www.zhengduofufu.club/articles/2019/10/31/1572507337702.html)
@@ -45,7 +46,6 @@ zhengduofufu 的个人博客
 * [Activity从入门到 入土（ 整合Spring）](https://www.zhengduofufu.club/articles/2019/10/31/1572511271813.html)
 * [Activity从入门到 入土（ Activity工作流 API结合实例讲解）](https://www.zhengduofufu.club/articles/2019/10/31/1572511314753.html)
 * [GitHub资料汇总](https://www.zhengduofufu.club/articles/2019/11/04/1572859009755.html)
-* [轻轻松松搞定Mysql](https://www.zhengduofufu.club/articles/2019/10/31/1572487546254.html)
 * [强哥说他不懂JVM?](https://www.zhengduofufu.club/articles/2019/10/31/1572506974444.html)
 * [IDEA常用插件](https://www.zhengduofufu.club/articles/2019/10/30/1572398829415.html)
 * [一篇文章带你入门Docker](https://www.zhengduofufu.club/articles/2019/10/31/1572485736922.html)
@@ -62,6 +62,8 @@ zhengduofufu 的个人博客
 * [图解ZooKeeper！](https://www.zhengduofufu.club/articles/2019/10/31/1572509281385.html)
 * [Java多线程系列（三）“JUC锁” 之框架](https://www.zhengduofufu.club/articles/2019/11/12/1573543294121.html)
 * [Java多线程系列（三）“JUC锁” 之 互斥锁ReentrantLock](https://www.zhengduofufu.club/articles/2019/11/12/1573543326584.html)
+* [Java多线程系列（三）“JUC锁” 之 公平锁](https://www.zhengduofufu.club/articles/2019/11/12/1573543416452.html)
+* [Java多线程系列（三）“JUC锁” 之 Condition](https://www.zhengduofufu.club/articles/2019/11/12/1573543448569.html)
 
 ---
 
