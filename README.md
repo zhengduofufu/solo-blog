@@ -10,6 +10,11 @@ zhengduofufu 的个人博客
 
 ### 最新
 
+* [微信红包算法](https://www.zhengduofufu.club/articles/2019/11/25/1574675656518.html)
+* [链表是否有环](https://www.zhengduofufu.club/articles/2019/11/25/1574675463532.html)
+* [判断是否为快乐数字](https://www.zhengduofufu.club/articles/2019/11/25/1574675335596.html)
+* [一致性哈希算法的实践（一）](https://www.zhengduofufu.club/articles/2019/11/25/1574674929215.html)
+* [三种方式反向打印单向链表](https://www.zhengduofufu.club/articles/2019/11/25/1574672603065.html)
 * [动手实现一个 LRU cache](https://www.zhengduofufu.club/articles/2019/11/25/1574671070668.html)
 * [亿级数据中判断数据是否不存在](https://www.zhengduofufu.club/articles/2019/11/25/1574669993308.html)
 * [分布式id生成策略：Twitter雪花算法SnowFlake算法的java实现](https://www.zhengduofufu.club/articles/2019/11/25/1574668519852.html)
@@ -25,11 +30,6 @@ zhengduofufu 的个人博客
 * [Java多线程系列（四） JUC集合 之 ConcurrentLinkedQueue](https://www.zhengduofufu.club/articles/2019/11/12/1573543831868.html)
 * [Java多线程系列（四） JUC集合 之 LinkedBlockingDeque](https://www.zhengduofufu.club/articles/2019/11/12/1573543809508.html)
 * [Java多线程系列（四） JUC集合 之 LinkedBlockingQueue](https://www.zhengduofufu.club/articles/2019/11/12/1573543777293.html)
-* [Java多线程系列（四） JUC集合 之 ArrayBlockingQueue](https://www.zhengduofufu.club/articles/2019/11/12/1573543751322.html)
-* [Java多线程系列（四） JUC集合 之 ConcurrentHashMap](https://www.zhengduofufu.club/articles/2019/11/12/1573543691432.html)
-* [Java多线程系列（四） JUC集合 之 CopyOnWriteArraySet](https://www.zhengduofufu.club/articles/2019/11/12/1573543663571.html)
-* [Java多线程系列（四） JUC集合 之 CopyOnWriteArrayList](https://www.zhengduofufu.club/articles/2019/11/12/1573543640150.html)
-* [Java多线程系列（三） JUC锁 之 Semaphore信号量的原理和示例](https://www.zhengduofufu.club/articles/2019/11/12/1573543615933.html)
 
 ### 热门
 
@@ -67,6 +67,11 @@ zhengduofufu 的个人博客
 * [Java多线程系列（三）JUC锁 之 共享锁和ReentrantReadWriteLock](https://www.zhengduofufu.club/articles/2019/11/12/1573543473211.html)
 * [Java多线程系列（三） JUC锁 之 CountDownLatch原理和示例](https://www.zhengduofufu.club/articles/2019/11/12/1573543497880.html)
 * [Java多线程系列（三） JUC锁 之 CyclicBarrier原理和示例](https://www.zhengduofufu.club/articles/2019/11/12/1573543595388.html)
+* [Java多线程系列（三） JUC锁 之 Semaphore信号量的原理和示例](https://www.zhengduofufu.club/articles/2019/11/12/1573543615933.html)
+* [Java多线程系列（四） JUC集合 之 CopyOnWriteArrayList](https://www.zhengduofufu.club/articles/2019/11/12/1573543640150.html)
+* [Java多线程系列（四） JUC集合 之 CopyOnWriteArraySet](https://www.zhengduofufu.club/articles/2019/11/12/1573543663571.html)
+* [Java多线程系列（四） JUC集合 之 ConcurrentHashMap](https://www.zhengduofufu.club/articles/2019/11/12/1573543691432.html)
+* [Java多线程系列（四） JUC集合 之 ArrayBlockingQueue](https://www.zhengduofufu.club/articles/2019/11/12/1573543751322.html)
 
 ---
 
